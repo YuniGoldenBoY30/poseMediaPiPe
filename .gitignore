@@ -1,0 +1,7 @@
+.idea/
+.mp4
+video/
+venv/
+env/
+.env
+/output.mp4
